@@ -1,6 +1,6 @@
 Что установлено в моем виртуальном окружении `pip freeze`
 
-Установить фреймворк в виртуальное окружение `pip freeze > requirements.txt`
+Переместить фреймворк в виртуальное окружение `pip freeze > requirements.txt`
 
 Установить паки в текстовый файл requirements.txt `pip install -r requirements.txt`
 
